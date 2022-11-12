@@ -1,2 +1,2 @@
 # AutomationTesting
-Maven Project
+Maven Project with testNG Framework
